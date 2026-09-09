@@ -1,0 +1,73 @@
+start:
+  - gl
+  - hf
+  - glhf
+  - hfhf
+  - good luck
+  - have fun
+half_time:
+  - gh
+  - good half
+  - gl next half
+  - switch sides, same fight
+  - keep it rolling
+match_end:
+  gg: 45
+  ggs: 30
+  GG: 20
+taunts:
+  dominant_win:
+    - ez
+    - too easy
+    - one-sided
+  half_time:
+    - good lead
+    - keep it going
+    - looking good
+  after_win:
+    - gg
+    - got the win
+    - well played
+nice_shot:
+  - ns
+  - nice shot
+  - clean aim
+  - beautiful
+  - that was crisp
+headshot:
+  - ns
+  - nice shot
+  - nice head
+  - one-tap
+  - "that head was free"
+  - so clean
+through_smoke:
+  - through smoke?
+  - lucky smoke?
+  - "you saw me through that?"
+  - "are you cheating or just lucky?"
+  - wallhack smoke
+wallbang:
+  - wallbang?
+  - through the wall?
+  - nice wallbang
+  - "that wall was paper"
+blind_kill:
+  - blind kill?
+  - you were blind?
+  - "full blind and still dead"
+  - how did that hit?
+airborne_kill:
+  - jumping kill?
+  - mid-air?
+  - "jumping headshot, nice"
+  - "you hit that mid-air?"
+  - "okay, that was disgusting"
+thanks:
+  - ty
+  - thanks
+  - thank u
+  - thx
+  - life game
+  - luck
+  - ":)"
