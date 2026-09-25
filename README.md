@@ -142,8 +142,7 @@ Add broadcast-style observer bots: they sit in the spectator team and appear on 
 
 | Command | Description |
 | --- | --- |
-| `bot_spec [name]` | Add an observer bot. Without a name, one is picked from the unified name pool. |
-| `bot_specs` | List all observer bots. |
+| `bot_add_spec [name]` | Add an observer bot. Without a name, one is picked from the unified name pool. |
 | `bot_kick <name>` | Remove an observer bot by name (quote names containing spaces). |
 
 ## Panel Guide (Windows Only)
